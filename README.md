@@ -1,12 +1,12 @@
-<h1 align="left">🌱 Hello</h1>
+<h2 align="left">Hello, I am Belenus</h2>
 
 ###
 
-<p align="left">I am Belenus, a passionate Front-end Developer and UI/UX Designer currently exploring new programming languages and design trends. <br><br>Mostly doing hobby projects, willing to learn more and expand visions!</p>
+<p align="left">A passionate Front-end Developer and UI/UX Designer currently exploring new programming languages and design trends.</p>
 
 ###
 
-<h2 align="left">💻 Stacks</h2>
+<h3 align="left">Stacks</h3>
 
 ###
 
@@ -30,17 +30,25 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+</div>
+
+###
+
+<h3 align="left">Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-</div>
-
-###
-
-<div align="left">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
@@ -56,16 +64,9 @@
 
 ###
 
-<h2 align="left">⚡Stats</h2>
+<h3 align="left">Stats</h3>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BelenusDev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/BelenusDev/count.svg?"  />
-
-###
+![be154's github stats](https://github-readme-stats.vercel.app/api?username=be154&show_icons=true&hide_title=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=be154&layout=compact)
